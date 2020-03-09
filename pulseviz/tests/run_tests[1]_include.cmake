@@ -1,0 +1,5 @@
+if(EXISTS "/home/netpipe/desktops/5/freq2/pulseviz/tests/run_tests[1]_tests.cmake")
+  include("/home/netpipe/desktops/5/freq2/pulseviz/tests/run_tests[1]_tests.cmake")
+else()
+  add_test(run_tests_NOT_BUILT run_tests_NOT_BUILT)
+endif()
