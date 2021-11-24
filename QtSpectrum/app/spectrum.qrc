@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/record.png</file>
+        <file>images/settings.png</file>
+        <file>images/star.png</file>
+        <file>qml/ParticalView.qml</file>
+        <file>qml/main.qml</file>
+    </qresource>
+</RCC>
